@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(211, 140, 140) !important;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#chart {
+    background-color: #fff;
+    height: 60%;
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+#myChart {
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
